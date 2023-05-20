@@ -8,9 +8,9 @@
 <a href="https://matzelle.co">
     <img src="https://img.shields.io/badge/Website-matzelle.co-red?style=flat-square">
 </a>  
-<!-- <a href="https://gkos.tech/Resume.pdf">
+<a href="https://github.com/brianmatzelle/brianmatzelle/blob/main/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>  -->
+</a> 
 <a href="https://www.linkedin.com/in/konstantinos-georgiou/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
