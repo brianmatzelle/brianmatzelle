@@ -20,9 +20,9 @@
 
 <br/>
 
-<a href="https://github.com/brianmatzelle">
+<!-- <a href="https://github.com/brianmatzelle">
     <img src="https://github-stats-alpha.vercel.app/api?username=brianmatzelle&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+</a> -->
 
 </p>
 
