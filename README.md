@@ -11,7 +11,7 @@
 <a href="https://github.com/brianmatzelle/brianmatzelle/blob/main/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a> 
-<a href="https://www.linkedin.com/in/konstantinos-georgiou/">
+<a href="https://www.linkedin.com/in/brianmatzelle/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:brian@matzelle.co">
