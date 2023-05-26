@@ -27,7 +27,8 @@
 </p>
 
 * 📖 Pursuing BS in Computer Science @ [Binghamton University](https://www.binghamton.edu/computer-science/undergraduate-programs/cs-major.html).
-* 🎓 Building **Insurtech** startup @ [OnePolicy](https://www.policys.me/).
+<!-- * 🎓 Building **Insurtech** startup @ [OnePolicy](https://www.policys.me/). -->
+* 🎓 Software Engineer Intern @ [Med-Metrix](https://www.med-metrix.com/).
 * 💡 Open to collaborating on projects and innovative ideas.
 * 💻 Currently learning Full-Stack Development, Database Management (PostgreSQL), and React Native - Expo.
 
