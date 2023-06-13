@@ -31,24 +31,11 @@
 * 💡 Open to collaborating on projects and innovative ideas.
 * 💻 Currently learning Full-Stack Development, Database Management (PostgreSQL), and React Native - Expo.
 
-<!-- ### 🖥️ Open-Source Projects
 
-<table>
-<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
-<tr><td>
-
-<table>
-<tr><th>Bots </th><th>Misc Projects </th></tr>
-
-<tr><td>
-
-<details>
-<summary>📈 Stats</summary> -->
 <br>
-My Github Stats
+<summary>📈 GitHub Stats</summary>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianmatzelle&theme=default)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brianmatzelle&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brianmatzelle&theme=default)
 
