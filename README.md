@@ -35,9 +35,9 @@
 <br>
 <summary>📈 GitHub Stats</summary>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianmatzelle&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brianmatzelle&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brianmatzelle&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianmatzelle&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brianmatzelle&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brianmatzelle&theme=dracula)
 
 <br>
 Currently Coding & Listening to:
