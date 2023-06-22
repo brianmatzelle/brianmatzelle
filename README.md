@@ -29,7 +29,7 @@
 * 📖 Pursuing BS in Computer Science @ [Binghamton University](https://www.binghamton.edu/computer-science/undergraduate-programs/cs-major.html).
 * 🎓 Software Engineer Intern @ [Med-Metrix](https://www.med-metrix.com/).
 * 💡 Open to collaborating on projects and innovative ideas.
-* 💻 Currently learning Full-Stack Development, Database Management (PostgreSQL), and React Native - Expo.
+* 💻 Currently learning Machine Learning, Database Management (SQL), and React Native - Expo.
 
 
 <br>
