@@ -27,9 +27,8 @@
 </p>
 
 * 📖 Pursuing BS in Computer Science @ [Binghamton University](https://www.binghamton.edu/computer-science/undergraduate-programs/cs-major.html).
-* 🎓 Software Developer @ [Med-Metrix](https://www.med-metrix.com/).
 * 💡 Open to collaborating on projects and innovative ideas.
-* 💻 Currently learning Machine Learning, Database Management (SQL), and React Native - Expo.
+* 💻 Currently learning Machine Learning, Database Management (NoSQL), and API development (FastAPI).
 
 
 <br>
