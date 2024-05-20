@@ -26,9 +26,9 @@
 
 </p>
 
-* 📖 Pursuing BS in Computer Science @ [Binghamton University](https://www.binghamton.edu/computer-science/undergraduate-programs/cs-major.html).
-* 💡 Open to collaborating on projects and innovative ideas.
-* 💻 Currently learning Machine Learning, Database Management (NoSQL), and API dev (FastAPI).
+* 📖 BS in Computer Science @ [Binghamton University](https://www.binghamton.edu/computer-science/undergraduate-programs/cs-major.html).
+* 💡 Incoming SWE @ [SageSure](https://www.sagesure.com/)
+* 💻 Currently learning Machine Learning, Database Management (NoSQL), and Fullstack dev (Next.js, FastAPI).
 
 
 <br>
