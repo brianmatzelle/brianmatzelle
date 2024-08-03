@@ -38,9 +38,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brianmatzelle&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brianmatzelle&theme=dracula)
 
-<br>
-Currently Coding & Listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bmatzelle&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=bmatzelle&redirect=true)
-
 </details>
