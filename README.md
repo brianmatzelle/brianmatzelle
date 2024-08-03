@@ -26,9 +26,9 @@
 
 </p>
 
+* 💡 SWE @ [SageSure](https://www.sagesure.com/)
 * 📖 BS in Computer Science @ [Binghamton University](https://www.binghamton.edu/computer-science/undergraduate-programs/cs-major.html).
-* 💡 Incoming SWE @ [SageSure](https://www.sagesure.com/)
-* 💻 Currently learning Machine Learning, Database Management (NoSQL), and Fullstack dev (Next.js, FastAPI).
+* 💻 Currently learning Machine Learning, XR Development, and Fullstack dev (Next.js, FastAPI).
 
 
 <br>
