@@ -28,7 +28,7 @@
 
 * 💡 Associate SWE @ [SageSure](https://www.sagesure.com/)
 * 📖 BS in Computer Science @ [Binghamton University](https://www.binghamton.edu/computer-science/undergraduate-programs/cs-major.html).
-* 💻 Currently learning Fullstack dev (checkout [Refhub.io](https://www.refhub.io/)) XR Development, and [LLM finetuning](https://huggingface.co/BinghamtonUniversity/cs415-llama2-7b-twitch-chats-40k).
+* 💻 Currently learning Fullstack dev (working on [Refhub.io](https://www.refhub.io/)) XR Development, and [LLM finetuning](https://huggingface.co/BinghamtonUniversity/cs415-llama2-7b-twitch-chats-40k).
 * 🧑🏼‍🦱 Checkout [my portfolio website!](https://www.matzelle.co/)
 
 
